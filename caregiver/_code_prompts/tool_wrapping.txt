@@ -1,0 +1,79 @@
+I'd like to wrap the following API into a Google ADK tool to be called
+shift-start-summary-retrieve tool. Use python. 
+
+curl -X POST "https://get-shift-summary-1037439081573.europe-west1.run.app" \
+-H "Content-Type: application/json" \
+-d '{
+      "patient_name": "John",
+      "current_date": "2025-10-27T07:00:00",
+      "caregiver_taking_over": "Alice"
+}'
+
+
+Which returns the following schema:
+
+{
+  "shift_start_summary": {
+    "appointments_scheduled_today": [
+      {
+        "appointment_date": "2025-10-27T11:00:00",
+        "type": "doctor consult",
+        "details": "Dietician check-in",
+        "where": "Clinic A, Main St 123"
+      },
+      {
+        "appointment_date": "2025-10-27T16:30:00",
+        "type": "physio",
+        "details": "Gait assessment",
+        "where": "Physio Center, Park Ave 5"
+      }
+    ],
+    "caregiver-notes": [
+      {
+        "timestamp": "2025-10-29T08:00:00",
+        "caregiver": "Derek",
+        "note": "Prefers the blue slippers."
+      },
+      {
+        "timestamp": "2025-10-27T06:00:00",
+        "caregiver": "Carol",
+        "note": "Enjoyed a short story; calm mood."
+      },
+      {
+        "timestamp": "2025-10-25T04:00:00",
+        "caregiver": "Bob",
+        "note": "Light stretching helped ease stiffness."
+      }
+    ],
+    "parent-notes": [
+      {
+        "timestamp": "2025-10-28T09:00:00",
+        "note": "Brought a new sweater; it's in the top drawer."
+      },
+      {
+        "timestamp": "2025-10-27T07:00:00",
+        "note": "We’ll visit tomorrow after lunch."
+      },
+      {
+        "timestamp": "2025-10-27T06:00:00",
+        "note": "Please encourage water intake this afternoon."
+      }
+    ],
+    "previous_shift": {
+      "caregiver_in_charge": "Alice",
+      "caregiver_in_charge_pronouns": "she/her",
+      "anything_unusual": "False",
+      "shift_summary": "Good night's sleep; responsive in the morning; enjoyed reading time.",
+      "meds": "All taken as scheduled; Vitamin D at 07:30.",
+      "food": "Breakfast: oatmeal + berries; Snack: yogurt.",
+      "hr": "normal (resting 62–68 bpm)",
+      "movement": "average movement; short walk after breakfast."
+    },
+    "meta": {
+      "patient_name": "John",
+      "current_date": "2025-10-27T07:00:00",
+      "current_shift_number": 898,
+      "previous_shift_number": 897
+    }
+  }
+}

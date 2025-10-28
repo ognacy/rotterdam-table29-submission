@@ -1,0 +1,6 @@
+indexes:
+- kind: PatientLog
+  properties:
+  - name: patient_id
+  - name: timestamp
+    direction: desc

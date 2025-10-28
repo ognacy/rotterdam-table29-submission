@@ -1,0 +1,13 @@
+garth-mcp-server
+list-tools 
+uv
+google-cloud-firestore>=2.10.0
+google-cloud-core>=2.3.0
+google-api-core>=2.11.0
+google-auth>=2.20.0
+google-cloud-storage>=2.10.0
+googleapis-common-protos>=1.61.0
+grpcio>=1.54.0
+protobuf>=4.23.0
+google-auth
+google-api-python-client

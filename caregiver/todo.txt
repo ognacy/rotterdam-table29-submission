@@ -1,0 +1,37 @@
+- better shift start summary sample data 
+- move the db retrieval in the function directly 
+
+- general question agent                                [done]
+  - prompt                                              [done]
+- shift summary agent                                   [done]
+  - prompt                                              [done]
+  - tools                                               [done]
+- note taking agent                                     [done]
+  - prompt                                              [done]
+  - tools                                               [done]
+- med related notes                                     [doen]
+  - prompt                                              [done]
+  - tools                                               [done]
+- create a git repo                                     [done]
+- push                                                  [done]
+- garmin mcp                                            [done]
+- patch mcp                                             [done]
+- care instructions agent                               [done]
+  - prompt                                              [done]
+  - tools                                               [done]
+- a bit better readme                                   [done]
+- refactor the garmin secret 
+- make an eval 
+- update the readme and post screenshots
+
+
+
+- actual implementation of the tools 
+  - shift summary
+  - caretaker note create, edit, delete 
+  - med notes create, edit, delete 
+
+- eval feature for care instructions 
+
+
+

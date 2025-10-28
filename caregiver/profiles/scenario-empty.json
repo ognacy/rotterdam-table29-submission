@@ -1,0 +1,28 @@
+{
+  "state": {
+    "user_profile": {
+      "caregiver_name": "Jane",
+      "caregiver_pronouns": "she/her"
+    },
+    "patient_profile": {
+      "patient_name": "John",
+      "patient_pronouns": "he/him"
+    },
+    "shift_start_summary": {
+      "appointments_scheduled_today": [],
+      "previous_shift_caregiver_name": "Alice",
+      "previous_shift_caregiver_pronouns": "she/hers",
+      "notes_left_by_caregiver": "all good",
+      "notes_left_by_parents": "",
+      "previous_shift": {
+        "anything_unusual": "False", 
+        "shift_summary": "Good night's sleep",
+        "meds": "All taken as scheduled",
+        "food": "Ate well", 
+        "hr": "normal",
+        "movement": "average movement"
+      }
+    },
+    "gave_shift_summary_today": "False"
+  }
+}
