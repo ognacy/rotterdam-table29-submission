@@ -1,0 +1,31 @@
+{
+  "PatientLog": {
+    "total_entities": 2,
+    "sample_entity_keys": [
+      "[{'kind': 'PatientLog', 'id': 5634161670881280}]",
+      "[{'kind': 'PatientLog', 'id': 5644004762845184}]"
+    ],
+    "properties": {
+      "summary": {
+        "type": "str",
+        "sample_value": "The patient's overall mood has been good since the last check-in. There have been no challenges with medication adherence, and no specific behaviors or changes in routine were observed. There were no recent episodes or events to report."
+      },
+      "timestamp": {
+        "type": "DatetimeWithNanoseconds",
+        "sample_value": "2025-10-27 21:14:38.303423+00:00"
+      },
+      "caregiver_name": {
+        "type": "str",
+        "sample_value": "Kelly"
+      },
+      "patient_id": {
+        "type": "str",
+        "sample_value": "123"
+      },
+      "relationship": {
+        "type": "str",
+        "sample_value": "Tester"
+      }
+    }
+  }
+}
