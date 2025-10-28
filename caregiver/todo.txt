@@ -20,7 +20,7 @@
   - prompt                                              [done]
   - tools                                               [done]
 - a bit better readme                                   [done]
-- refactor the garmin secret 
+- refactor the garmin secret                            [donec]
 - make an eval 
 - update the readme and post screenshots
 

@@ -1,0 +1,23 @@
+{
+  "eval_set_id": "grounding_smoke_set",
+  "description": "Checks that the agent grounds via care instructions and reproduces curated answers.",
+  "eval_cases": [
+    {
+      "eval_id": "care-instructions",
+      "session_input": { "app_name": "caregiver", "user_id": "Jane", "state": {} },
+      "conversation": [
+        {
+          "invocation_id": "1",
+          "user_content": { "role": "user", "parts": [{ "text": "Can John eat peanuts" }] },
+          "intermediate_data": {
+            "tool_uses": [
+              { "name": "get_care_instructions", "args": { "patient_name": "John" } }
+            ],
+            "intermediate_responses": []
+          },
+          "final_response": { "role": "model", "parts": [{ "text": "No. John is allergic to peanuts." }] }
+        }
+      ]
+    }
+  ]
+}

@@ -60,6 +60,10 @@ Can answer questions syntesizing data from previous shift summary, parent notes 
 
 The `parent/` directory will contain an agent that acts as a parent. This agent will be able to query the system for information about the patient.
 
+![Banner](parent/pics/1.png)
+
+The parent agent allows the parents to specify care instructions, leave notes, check notes left by the caregivers. 
+
 ### 3. Doctor and Parent Medical Documentation Agent
 
 The `doctor/` directory will contain an agent that can be used by doctors and parents to access medical documentation.

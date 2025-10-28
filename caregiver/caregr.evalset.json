@@ -1,0 +1,324 @@
+{
+  "eval_set_id": "caregr",
+  "name": "caregr",
+  "eval_cases": [
+    {
+      "eval_id": "case3a1708",
+      "conversation": [
+        {
+          "invocation_id": "e-0d6ba485-9503-4ad7-88c6-5b41a8418cfa",
+          "user_content": {
+            "parts": [
+              {
+                "text": "hi there"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": {
+            "parts": [
+              {
+                "thought_signature": "CqwdAePx_16BdDGoOkime-36bUIn9kBArFAQJkPLJNhO-w-GcWCx3xiH6B5ifTrKXAva2UOtLTb7UEgMzvExaFuLgnMziDPsacuPzKb6K-Cy42h4AQ_2TfNq_p2qU_68e0rTyhI-WdBMxcmhweBClAh9fB8INMufGJxUfxgxJZkYvfZH78FV6jDigk0BA-OM4efTXLxtbZVWn0WbHqfiV6ZWzs0N3JowtumF9CPrU-MylMuz5oIsTo7ksYhHX4xEZVWnJRmDNqGmQsxO7Vi148wCSH7VO79JYml87lDwQUA6jxJSXb9j9EO0L5wzJ2xBEYuQLx9N821IrK6Be7a-Bf7bcDtJrjAEEFsNW3IzXlRrnmxKZtgySBM0ZgBuWMuDhbne4kz4kOj840PDI3VypGGsX4bd5urPE3X24C1dmyF6m8NgjG9CnfWzVFHVv65hIQnqDrWkuNIHkfFC8Bd7MQe_zPvBkog28zz7qw0rJaSlr-_PBXpqBdwqr1eYJ5UehvEkoTZSdCEc82G9tK8T6J7_qSH4vybK_zpY9H2_ygiWwS2yigLqNRXmu4LmUKyYJS8TgOqroImgFGgBWlrlVsMexWlIzsE8CAxgLb-Gy-wwYwCTLeFeMs9seFAvcDzT1cMoJWp5_XFjFKnyzAx8zIkOjdU0sMt9xesPrEeqWn4nO_hZTFKYgt1lYPlKBSlsBco4C4b0leD_TRG5t5Gx0WdwBtFc9dgStr0i2JwN0_hCv1Ef0mciNIikmA7xWf_FvKBsEdHUCK6Zei3U0d_ABakwyPh3wS7KkDJZomConICAlXFZI6wm9r2gPzpW20jWU0k9l9ty0ySofc0twHKgpOS6M_neNmSHWDb3SubuqVZciiBX5hOwmqDL4CPgW60AgifTwTqyy4PjXpo3VD4m2QMpi9VpIoTkQ-qM26Odzwlnc-62fUS2XJ3VvOoAFFj_9cpkptO16xY6l570tlkC_TSkec_qzvGk9owPEF97veAVCDbijKZQsLv1G2uRzvKHIQXG4GHs_PJL7tnKNBJCZupCwZF1Nt_QcD_L0AVh_Q9w_7gKUBc57oLSBqFJpquEMOtY5zgUYDtT5ChPlXXo_UptE4AL2B_cXSv2N_SMOB3xxEVSiXVqHEKt0cx0GupjgkIgBrDeCu3c5LEgqZaepjzbK9JYvdVqgim5yabCFQTpbazWdk4PMwvhQC3n7u2LSjhXRJ-kvSOzGwsknoX39Cppoj26ajeBeRkQPeixufwpzcDAckXvjwalVWe4ACANLFS0JQDLszwkQX-Wgge0_QzJtyzonvn6xX35u69ExKqQW9jFNdI6UMW1L_tL4GTL66wCcZQwPypGogx1buTzybiYaeHvTOVD525ZgbpS6xIv6_J2uXQejpdvHQGIaTEVi7aUYeicFppudJ_3sLInJh_Ol0uiiM25m5d3NkjDDLVPPkmcrkNWKX6tjtkyCmxg1wBG1B9XjC_2lyRx6bF2vQk134pacUAkc-zEKttbxfN4YMEC1fwpB0JFhiE8tmVS6j2SWaXHZRzKx0UcAsl46ovjxDJqy_HSHS0aYMsDUUQoaATMyd_uAG1xVG4qV3Zdrvd_1fHIMfI3Il3AhSBGKveUzKPbvinwi7QsYsA9LZ2I8afOMvZMWNjkvv_BMfyUeP5TG-e5H0tY2Np_h3XLuNwHpOVFptQHj8icf1K8QgyveDG_og954SwaqeZ7aRrHMGw1uQjrRXZwScl7dws5lHparC8YZZTv_70GGkPSuGMDPXHezx26sIoN22zliRRWAXFyviuSK6UhD5VMMfSjyolawKN5J3-vg_bDNplrvmCYRDjLHEPXKa_OQoKKzSbUS-95bhRxojOrXB2bkAKtfZBrNWEyK_bVqWFkslDdu2AqYQHHWUCS5k7pkltZVDDH133OdrZesI-pUBCuSUXWuNMQy9LePkj7r3QDuE7DHIKHn6gMS2L3J2vcUs3rDYdBqtSzwNvNVxjOAVTaqj7mF9STr-2igH68yttfNMDxCyskd6fao3Dh5F5X3g6dxEnqxRL-qyu8W6NEzJZ79W5IPmlRsbLfLrpSMcbJskOWx8-x02W3B8Mcdfzyr6OrYTNr5apsz2e9emQ5394B6OsTtx_SpLKygU2OQYtgGHjxuMifOrbJBN54u52IhauciyUFP64UNCp2SCof5E0jiXSxp90OT0oE8QAzhM4L3N8eEWp1jQV2HN4L4Enj0nW7Qqer2pEm0ewqcwuTOMeBG5KEj-rmAHBmG900nrYy_cCBpKckAAc6_qXhVbjmRTW96R202D2S4kvIbuN_rl5C7zJe_CUTyKQKzbSjOjlJDk6wbN3Z33yBDLEt2JQVrVs8xNqxO2VeUSRqOTeGQs0EgvkX39ci0yp7UPijtQlH8BVeM9Ktunq5Upx7ffPF5tJxM_ZY29FSRQ_ZChoU0mvQUkS9fCVBgfQMGKkyn4rzEsO08a4uXi2Ax1Ejm8M80rSG2EZAV-hnbbTs3LGaUafqDPtQ7ePIP70CLHVlqULq_4BFLK7NaknNMULqJVjD2ue742mfSBNhLtJZxcOJGFJHc-RUShEV25_tnTjkDiYIuNceEGVvKJ8WPH51-VnuXeTjUe3LYZJeO8023ftwB3sWSpSxhsvnW-YqD0Hy7r-Pl6Poy0vu3psFfXBxSerGPEg6p9tF2OJHnjhhTR28CW4OMfFUzTBdmC7jyqZ8nm3j6XkX-SQjQzs3MbDweDqGUmBMegSp2_0kzhK6B1AwqWLQ6-dVHEuthhhu9Dj-XZJxmf2YFOmMK3ELNCUjTJNMvJL85JCTAwYXbRdypDeCJldRxQZp_y5SVWMT2tM4OkBL2svOCZgLpsjfM7ICHSQskCM6jh5myfbjxEOioN6Vj0h35Nr4I9XqViwHoUdLJYXOQP8d77xecTW-ATwMuBlfMo_I4OkJBpVvj5RUAOsNL8ppfGgnDrQK5THYj5fMK8x1ta6ztFs5eu0_gznszLJwt2z_t3DcBfT23fJa1EMdriEswBJ34hlBWhKhST3GKee0cei3TXOPJcH2Fbe-LTXYe5CXROrJYB190HMtCTSZDm94lTD3nqLPLQt7YNTahYn0dv9esjfJxrj4s-xiQ0DBUl0Q3HuFG-95yAPJL4lLJp0GJCsJQWJRN3Lr6PUEavAGR8WRnRTR3YJoC_1vMj-Xwwfwtjy7-mma5gaqTwLmOFl6G5QNIMuaMwzWF32Eqw3u_q1vBfwT7lbCurEhJNQ4na_JHstz2DhBnqDuKoIgAkUMzI2MfmHyXQXu1x2-FpnLM_wDNrKNnMDDqkWEsxPnKR46fOARRdhXZ0bldJbLaG7vhSxgPMzRe5QK-kECQ6_QtCD4v3VkydE1jFX9TByn1l6zusivG40w-IJH-G-fA-EbDcWYnd9J6QXiqupvPY1gF-hwLcODPHQBC0Dwb4MQybGxheUzqN27F7bO_1Aobi56JYT5qxOGGKEz0wzFuGW1d_hqWw4Qg7k32RIHc4r6YOEb910HAfck63ljv2AMSKqPnrJnIS8KD5Ujl8gx73j4WnsHqjSYndaCgIzz3L3f6w7IInVL1b42ZmE4US79GhWutyieSusl9tJ2zquTye9HekgunKvImuKQ5pDeLfCePJcZJvqhnraHw7MT43zTNvvEUR9mywUTcqwZIa3faiMPEXzDyYGeBAQ_Qfakf87POMeqc-hO4V6CsHxyvl1SyhPE9PSBd79l5YaNBVRVzxNqGD81-FoAGVQicSNai5aJuYuH6t0R35K-AlEFfXfwOX_gaMt04IK2Z1nG5gK7pDB-MxNgoQUPOHhRm7st8WYZ64ilbzGC5ZX8Y33aCXdJ8seR-bLKShW4p1bWi_lK4s5YKK5nnscwxLx8VGb0XDIMwuTu5HydRypybIDiP4EI2A8ITc-ZO0mREesuC3yZoF-ju2DNsMrVMyaqAFpMwg0LQY5j0v222GeMOarvEtGGlu12PZNEHw7ieYceCwvzGcwW_DJcJp_USjSNLWsZUVRwRP2EG54a33vRKzyH2cNsdN6TERape1E7-pxq9pLR_pVQsCsTVifES4oTdE79ipwKfM07QUl1_5k3VStvX4792cqommn8CrBxJw3NIzrb_gffnVz-jWx8ROb8hGNNH9ChBzEiXI-0v8iKAgj72Nx25A5LaT4gNl9_kjIEhyNEJ-iuOESR-iJTzflWyXreGvwJsNrZhfS6zjWXHifAomJR_bEF6JqTgazwa_udbD1_Ex1K-WG4efvTU6wLn2I9udAaifWXBNb2WsPhLjcLfxC7AgsnMo2IY3xFSx5G3HxRC06-QgrQShYv9HuEFsCAoWwwz46PFHia8FdC90aLXPldtl3dlWxofaFY4TyIK0bxFqQLiaW6RzUIF1TKQG9nPqhWcZepI5hZCgrxdQ6ZSbQ1_wkjmwta7AqTMJrEwMw-nRpeoyH431kzwtY_3ZdwVw69ynifN_aeYudlCkIuli3M8zuIByfxgE0lmpzBpaQTj3655_UzF9gAMiT3XWiPUqPCxrX_Yj11QD5cstd7QH0LloaocHipxkMamDxeneBNsxOkik62bfLFjr6kQ-aUgCO35jFfa_o0U2Ry5nXCsOJhQyEU4S87BcNcjpttY33rfCEJnAWTEPIvK3W8R6G60todkrI1PuAf0w_yh1cv5dqdJhwpNCbqqINv9oMCths2rRIGPQPV2QQk2Zjjv5F4hpibUMDzISMZQeIxwHkhszdiEec0VZq87yBttZdrHgDtdAMMmkkkRSw40DMdEVLSqYrknZ0sDoqC5c0egj3iVW9YUKOU3Lr3AteL2QLU2R4JylMwgFd8S8wlZRSi_bJksLjs1b_CUpsawqdgOcTy3AsL03G-QieIDUmkUIe6e5Rlgg6RjYeE6JwzIB2jmm2cVeX5VXsU0KitF8yiRmzH8K45cpQgBdxZOnEHpYdYGkXiHknlN2S2nXkwaTC6rrko2b3vVt0i6N8x8jAfXRnnwNe64qbvls8B",
+                "text": "Welcome to your shift, Jane!\n\nHere's a summary of John's last shift from Alice:\nJohn had a good night's sleep, was responsive in the morning, and enjoyed reading time. His heart rate was normal, resting between 62-68 bpm, and he had average movement with a short walk after breakfast. He had oatmeal and berries for breakfast, and yogurt as a snack. All his medications were taken as scheduled, including Vitamin D at 07:30.\n\nHere are the latest notes:\nFrom John's parents: They brought a new sweater for John, and it's in the top drawer (2025-10-28). They also mentioned they’ll visit tomorrow after lunch (2025-10-27) and asked to encourage water intake yesterday afternoon (2025-10-27).\nFrom other caregivers: Derek noted on 2025-10-29 that John prefers the blue slippers. Carol noted on 2025-10-27 that John enjoyed a short story and was in a calm mood. Bob noted on 2025-10-25 that light stretching helped ease stiffness for John.\n\nRegarding John's sleep, his score was 56 on October 27th and 49 on October 28th.\n\nYesterday, October 27th, John had two appointments: a Dietician check-in at Clinic A, Main St 123, and a Gait assessment at Physio Center, Park Ave 5."
+              }
+            ],
+            "role": "model"
+          },
+          "intermediate_data": {
+            "invocation_events": [
+              {
+                "author": "root_agent",
+                "content": {
+                  "parts": [
+                    {
+                      "thought_signature": "Cq8EAePx_17lKMW7EWNf7QwgY5XD5Vrmfi5VGDoEf9m04ruyb2lH07VDHQMQge4Qx5OtMCpcj4jK_0AdVrvozfTvnH1P2m7kdO2e55X3vyk91DIF19lxTdCJ9qM0bIJyYnS9m4_fDKZaFCLtKudqhQ3XNPFPbuAJAbmmo5uScyWDY-LS2VuMD6GzVC3LYH6VzGkV2QndkA9OEWnMpBeaaRo2kgtmMb5YZUqhsW04ZmFfBgRFQYLdGiaGRhtuOMz-9M8GUtaAbY9UnD0ST8XPGbSoRAD3yvBlkgOIKtmLXfwJ7OvtG7WrpHZftgV3bvlhu7Y_IomFS1eWuYhds7yNmcRvGBy9wXJVRxFRXo76A1L_nL_jKVoA1OpdZErbgTdzw3GyRQ0iyO_oJpkIMTxE5vILcaa_WBpPSEKo0126eTsZ2OWnlf47-vimrRXTwsMpE1Lys8pexUrhAU0_UbMMOXXUQnkfECuvkLS5biRKT9KBoNWgoH5P9NOw5rdfD78TZyBmaOvd1wz53MQpmET7vML0M5N8g0ycNefsdXeC_w7W-t3-aY0qRc-L8L8ezCduNXT65M-F0vq34w8fNmxj6LVVVzgrsiWzx4Z5npi7zGbeTwsQfiJmRb_v8Uqj4m566LVtmUfaqb3vuZ9SkXXF9geKog4rBr-nDuZ6kvU5oJt887s9LtQFxX4ZkTVCJsSfA79jrr_xWdsLW2wK-AUSc2twrRmZQ5iLDT4aTY2gt010HA==",
+                      "function_call": {
+                        "id": "adk-7e28bcc9-4d35-43c3-a6a9-95f6b826c694",
+                        "args": {
+                          "agent_name": "shift_start_agent"
+                        },
+                        "name": "transfer_to_agent"
+                      }
+                    }
+                  ],
+                  "role": "model"
+                }
+              },
+              {
+                "author": "root_agent",
+                "content": {
+                  "parts": [
+                    {
+                      "function_response": {
+                        "id": "adk-7e28bcc9-4d35-43c3-a6a9-95f6b826c694",
+                        "name": "transfer_to_agent",
+                        "response": {
+                          "result": null
+                        }
+                      }
+                    }
+                  ],
+                  "role": "user"
+                }
+              },
+              {
+                "author": "shift_start_agent",
+                "content": {
+                  "parts": [
+                    {
+                      "thought_signature": "CqYHAePx_17IP2qhGxkt9YNJEje1zvxxNdly0viFPq5Qtqx6KrtRJvtdXxNDwCrJve7WctgChHuPlyYXsjiNmrAJrCF6NarzrX7QWUDDheO0gU_zRTRGZmHt2HNXO9ezMwujvn0IAaYO6F1pyEOaeFU8N4GxUssqr_Q3wf2vb0snjBLdsj6QDGgcDg3iYIAb625jYJvFg28hzmIalagKrF6ep4MvAwdv2SDfxfvu4q38kUOCkNuQljoxyG2b5jT8AX3Y3_fVg1qN7FgdzXsprpSUCvo9Orl_mE0Lm0HXq1vfSPIG5c0a-I-uXE0qtlvRcEuyMBF1SlGd8-BwhfWiyjG1gVLE61_Df-xUMHLJ7i0WqskJLLschc4SC2l8qKqI7CJhimVx1Pn9UI4LDzjf_aAdKxaghShfGUh6vxCPuXtNTBrcsFUGQhW-DaB15Bm7qqlTKc1XXb1miuHRr1ZTpGeTuxTbN6DqLrTRxLuHamcSx_czmlGmHoZJf5x1j9mJcTskhkPElK5VsSSSotG7fy5EZBKHSDodNeylsm_fy10r59l_d7owsNWSwK2ZyG759UmzcHx6AcDZeFv_ouu-EpG2Ut7r9LK_hDP8c5vsGB399lYSWIWIkYQnLYS5l003Z6MvtH9eS7B4ehrRynj1HcVdwiSvin8ScSuPDFI_0NdicYpKmhqzUanwz7_VBfuBpJ6zxC9a71tziw-lYHDHOZlL6pWmMZEeiU-yo77DcslPH9CIN0KhwvhiYoZk184RKCqHgDX8hbiaExLyVUiTnSoNk0SM-5GaUK5dfDCJa8UPUsZ5sLYjaYcnpdhJsKDpbQfYp8uZdqz6gWIdViF7YY1YOWWkpq7OAZUD5prNWisgJHFou9Hi6VJ3JRpUdZHY_fAnNN1FgitiNXlLh6TciydVgwXWZ8plEnY2WeNgcDaadOKK_vSoBmhxyAUblHniW_Mya231d2cZO6AtNyQXtJFYsfr7UPIEEOhpEUjBP3r1GauskXn7Hrh2tAqQ3HmfZ6VIRZyAHE7lfdI8NM72HCRuDEtAbPv0-nxm7rMDPlavhKaYjSXbDb8FExMQZbIIKviF8CBAdd5ILkShVY1dXMrEEOY_X6Sjk_bqEEiVXSJojxLvkdhUY8wNIYJJlCcafaa55ZEwxBa0QXlXAn0UD95s-YGjffB6pWgwX0pnt1RHcAsR0Obm_vvrBeKmMzP7XRE-jTCpAojdCoVBRoExZjGcoGmY3qqI1w==",
+                      "function_call": {
+                        "id": "adk-d8f7f93c-53e2-4f65-ab4c-2a475ca6c32c",
+                        "args": {
+                          "patient": "John"
+                        },
+                        "name": "get_shift_start_summary"
+                      }
+                    },
+                    {
+                      "function_call": {
+                        "id": "adk-452837d0-62ab-49bc-9b2a-a5d3fa2d101f",
+                        "args": {
+                          "end_date": "2025-10-28",
+                          "days": 2
+                        },
+                        "name": "garmin_daily_sleep"
+                      }
+                    }
+                  ],
+                  "role": "model"
+                }
+              },
+              {
+                "author": "shift_start_agent",
+                "content": {
+                  "parts": [
+                    {
+                      "function_response": {
+                        "id": "adk-d8f7f93c-53e2-4f65-ab4c-2a475ca6c32c",
+                        "name": "get_shift_start_summary",
+                        "response": {
+                          "shift_start_summary": {
+                            "appointments_scheduled_today": [
+                              {
+                                "appointment_date": "2025-10-27T11:00:00",
+                                "type": "doctor consult",
+                                "details": "Dietician check-in",
+                                "where": "Clinic A, Main St 123"
+                              },
+                              {
+                                "appointment_date": "2025-10-27T16:30:00",
+                                "type": "physio",
+                                "details": "Gait assessment",
+                                "where": "Physio Center, Park Ave 5"
+                              }
+                            ],
+                            "caregiver-notes": [
+                              {
+                                "timestamp": "2025-10-29T08:00:00",
+                                "caregiver": "Derek",
+                                "note": "Prefers the blue slippers."
+                              },
+                              {
+                                "timestamp": "2025-10-27T06:00:00",
+                                "caregiver": "Carol",
+                                "note": "Enjoyed a short story; calm mood."
+                              },
+                              {
+                                "timestamp": "2025-10-25T04:00:00",
+                                "caregiver": "Bob",
+                                "note": "Light stretching helped ease stiffness."
+                              }
+                            ],
+                            "parent-notes": [
+                              {
+                                "timestamp": "2025-10-28T09:00:00",
+                                "note": "Brought a new sweater; it's in the top drawer."
+                              },
+                              {
+                                "timestamp": "2025-10-27T07:00:00",
+                                "note": "We’ll visit tomorrow after lunch."
+                              },
+                              {
+                                "timestamp": "2025-10-27T06:00:00",
+                                "note": "Please encourage water intake this afternoon."
+                              }
+                            ],
+                            "previous_shift": {
+                              "caregiver_in_charge": "Alice",
+                              "caregiver_in_charge_pronouns": "she/her",
+                              "anything_unusual": "False",
+                              "shift_summary": "Good night's sleep; responsive in the morning; enjoyed reading time.",
+                              "meds": "All taken as scheduled; Vitamin D at 07:30.",
+                              "food": "Breakfast: oatmeal + berries; Snack: yogurt.",
+                              "hr": "normal (resting 62–68 bpm)",
+                              "movement": "average movement; short walk after breakfast."
+                            },
+                            "meta": {
+                              "patient_name": "John",
+                              "current_date": "2025-10-27T07:00:00",
+                              "current_shift_number": 898,
+                              "previous_shift_number": 897
+                            }
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "function_response": {
+                        "id": "adk-452837d0-62ab-49bc-9b2a-a5d3fa2d101f",
+                        "name": "garmin_daily_sleep",
+                        "response": {
+                          "result": {
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "{\n  \"calendar_date\": \"2025-10-27\",\n  \"value\": 56\n}"
+                              },
+                              {
+                                "type": "text",
+                                "text": "{\n  \"calendar_date\": \"2025-10-28\",\n  \"value\": 49\n}"
+                              }
+                            ],
+                            "structuredContent": {
+                              "result": [
+                                {
+                                  "calendar_date": "2025-10-27",
+                                  "value": 56
+                                },
+                                {
+                                  "calendar_date": "2025-10-28",
+                                  "value": 49
+                                }
+                              ]
+                            },
+                            "isError": false
+                          }
+                        }
+                      }
+                    }
+                  ],
+                  "role": "user"
+                }
+              }
+            ]
+          },
+          "creation_timestamp": 1761646243.809129
+        },
+        {
+          "invocation_id": "e-cb9d9f46-8293-4a35-9741-0fed1a4ec465",
+          "user_content": {
+            "parts": [
+              {
+                "text": "tell me, can i feed John some peanutbutter?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": {
+            "parts": [
+              {
+                "thought_signature": "CpsCAePx_15fKT3-HTS5JrrBwYHrEVYmAzyUdOxi6oSh4DYjpNXOVPnWPEi566G0ZnuLBZr9XZNjD3M_zpxHNVEpyl80XOUL13Js6BbTXMe9VXjMKPP4k8HoTQ-2ZGqXacUUQKCFuFhRGJkYQwSegwlKfg_FUngbfIcSw9KYOrsfWzNEHHS_F3jks4DsOREtHc5Em78vRkX_WiKf5fOS8BobN40a0CoGu_8OFLFb48jaQI4RMba9aLRJCBvKxURQoRfYZJaK7VvoTLe2GBAZ0rPQ_7t8yaP90wsto7cgTtofvahxtV-QO88CPdk3NUG1MLzcCn6h3owH52byyia9P4qfUdkbRYGIn5sbxs8qvAiFruX4MbbytrdMc2-UXQ==",
+                "text": "No, Jane, please do not feed John any peanuts or peanut butter. He is allergic. In case of an allergic reaction, his epi pen is next to the bed."
+              }
+            ],
+            "role": "model"
+          },
+          "intermediate_data": {
+            "invocation_events": [
+              {
+                "author": "shift_start_agent",
+                "content": {
+                  "parts": [
+                    {
+                      "thought_signature": "CsYCAePx_17d4Jb0HgLIiSynXTE-nVJ6Kme6INiuPyKiYeV6W9xNnfPIrOhszuoLMh63z405m-lJjSDrh2pYU3mgWdB7hEj8gtvju57bLWBid3f5xgUuaEaBMP7lMgw0fHXHx-KvAin2JhO9wbm4-S_C6RiZZ5DRwTa0Qq5tIKGsaBqaB1Q0GTvx1G6fNCwALdfn1PFXI0MSP2wxNDpesxBASO8Rs66s014CPFQv3vLSti0vBzkmfi0dgfg1C5kFlca2_mcomrbzRb-a_1t_HrM1vEAcuX8n2aRs7qS8CxVtOzi6hm4hmHpEiwSfO8eu6ybI60etHINrNj1rIa2Ph5gkvAwDN0Bw5vibKWniyJvX4lWAhUMKh8q_rTcmBmPROeoqcQZF0AFgAjjXSuvOGl1kRG9KXlD4ALRGZptZTxv0MCEGLbaEhxg=",
+                      "function_call": {
+                        "id": "adk-effbbc70-cf0d-48a2-9115-a0d1ad7449d1",
+                        "args": {
+                          "agent_name": "care_instructions_agent"
+                        },
+                        "name": "transfer_to_agent"
+                      }
+                    }
+                  ],
+                  "role": "model"
+                }
+              },
+              {
+                "author": "shift_start_agent",
+                "content": {
+                  "parts": [
+                    {
+                      "function_response": {
+                        "id": "adk-effbbc70-cf0d-48a2-9115-a0d1ad7449d1",
+                        "name": "transfer_to_agent",
+                        "response": {
+                          "result": null
+                        }
+                      }
+                    }
+                  ],
+                  "role": "user"
+                }
+              },
+              {
+                "author": "care_instructions_agent",
+                "content": {
+                  "parts": [
+                    {
+                      "thought_signature": "CoEDAePx_17YcERryZ8sxEx1eiehzU8PCcTqI5afoyAleTD8iotaBLgvBuNmJbNESm_kKLkRykkHtGv4cCZot82gxYEkNmoKgwz9j5eWcIai9eqJarhz5h5oXBiLuhuyTmZwnnV8MZAFZtv-Z2-xJbQB-2jwpY6gJTZ4itYzdZDslKm5wV40MF9jcanE9BIAo12VeN_evXGjpsVoABKr4HSrUB6GOCd5n0UWeZZ47GX3t39Fud7TxudyWKUiw_5rBfK8cchC8LS5fraDQNDEGIK2tdqoqacuOKJ5QjoVtHXtKuWrabIDnXsxlFDTKQLYBz8lNAS1FDgJsg7560nLGy5nZCDrVOeIIGoF-eLADmXoSU1JkC-qkuI6peQtJxb6SnBbqDs6uUn5vsEYU9vRGd4bK2Y9N5Kha4jFXjz8Ww1J3ZDXoiANQP-V_WWvXU4ztZPD206tsjq6VaDY2Ex6gFZTHioEMOi0I8pPkbsJ3mUccN70wa3lNANUvs5wpFmPvFKVFA==",
+                      "function_call": {
+                        "id": "adk-b9df510a-7c23-4387-82de-b1cfe3f242b9",
+                        "args": {
+                          "patient_name": "John"
+                        },
+                        "name": "get_care_instructions"
+                      }
+                    }
+                  ],
+                  "role": "model"
+                }
+              },
+              {
+                "author": "care_instructions_agent",
+                "content": {
+                  "parts": [
+                    {
+                      "function_response": {
+                        "id": "adk-b9df510a-7c23-4387-82de-b1cfe3f242b9",
+                        "name": "get_care_instructions",
+                        "response": {
+                          "result": [
+                            "do not feed him peanuts, he is allergic",
+                            "playing classical music helps calm him down",
+                            "in case of allergic reaction the epi pen is next to the bed",
+                            "DIETARY PREFERENCES: Likes: grilled chicken, steamed vegetables, brown rice, fresh fruit, yogurt. Dislikes: spicy food, seafood, raw onions",
+                            "Ensure water intake throughout the day"
+                          ]
+                        }
+                      }
+                    }
+                  ],
+                  "role": "user"
+                }
+              }
+            ]
+          },
+          "creation_timestamp": 1761646263.883995
+        }
+      ],
+      "session_input": {
+        "app_name": "caregiver",
+        "user_id": "user",
+        "state": {
+          "user_profile": "",
+          "patient_profile": "",
+          "_time": "",
+          "gave_shift_summary_today": ""
+        }
+      },
+      "creation_timestamp": 1761646357.432172
+    }
+  ],
+  "creation_timestamp": 1761646347.502604
+}
