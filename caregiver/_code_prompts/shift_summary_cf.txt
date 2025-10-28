@@ -1,0 +1,73 @@
+Write me a cloud function that runs in google cloud environment, uses python, and
+
+- for a given set of parameters:
+
+patient_name, current_date, caregiver_taking_over
+
+- transforms the current_date into shift number, assume each day has 3 shifts, so a total of 365*3 shifts 
+in a non-leap-day year. Shifts start at 6am, 2pm and 10pm. 
+
+- retrieves from firestore collection a series of documents keyed as 'collection/{patient-name}-shift-{shift number}', eg.
+"hr/John-shift-1" for January 1, 7am. 
+
+- ignore timezone conversions, this is for a demo. 
+
+- the collections to use:
+
+anything_unusual
+shift_summary
+meds
+food
+hr
+movement
+caregiver_in_charge
+
+- on top of that, pull the document called "parent-notes/{patient-name}" which contains an array of objects 
+{
+  "timestamp": "...timestamp...",
+  "note": "some note from a parent", 
+}
+
+- on top of that, pull the document called "caregiver-notes/{patient-name} which contains an array of objects
+ {
+  "timestamp": "...timestamp...",
+  "caregiver": "...name of the caregiver..",
+  "note": "some note from another caregiver", 
+}
+
+Filter out notes given by the caregiver_taking_over, and show just the last 3 notes, and none older than a week. 
+
+- on top of that, pull the document called "appointments/{patient-name} which contains an array of objects like 
+  {
+    "appointment_date": "...timestamp...", 
+    "type": "doctor consult", 
+    "details": "dietician", 
+    "where": "some address
+  }, .. 
+
+- render the contents into a structure as follows:
+
+"shift_start_summary": {
+      "appointments_scheduled_today": [],
+      "caregiver-notes": [],
+      "parent-notes": [],
+      "previous_shift": {
+        "caregiver_in_charge": "Alice",
+        "caregiver_in_charge_pronouns": "she/hers",
+        "anything_unusual": "False", 
+        "shift_summary": "Good night's sleep",
+        "meds": "All taken as scheduled",
+        "food": "Ate well", 
+        "hr": "normal",
+        "movement": "average movement"
+}
+
+curl -X POST "https://get-shift-summary-1037439081573.europe-west1.run.app" \
+-H "Content-Type: application/json" \
+-d '{
+      "patient_name": "John",
+      "current_date": "2025-10-27T07:00:00",
+      "caregiver_taking_over": "Alice"
+}'
+
+- also create a separate function "create_sample_data" which creates some creative test data with timestamp +- 2 days from Oct 27, 2025, patient name John, caregiver name Alice. 

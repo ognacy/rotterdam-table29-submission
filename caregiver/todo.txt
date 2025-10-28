@@ -1,0 +1,20 @@
+- better shift start summary sample data 
+- move the db retrieval in the function directly 
+
+- general question agent                                [done]
+  - prompt                                              [done]
+- shift summary agent                                   [done]
+  - prompt                                              [done]
+  - tools                                               [done]
+- note taking agent                                     [done]
+  - prompt                                              [done]
+  - tools                                               [done]
+- med related notes
+  - prompt 
+  - tools 
+- create a git repo
+- push 
+
+- actual implementation of the tools 
+  - shift summary
+  - caretaker note create, edit, delete 
