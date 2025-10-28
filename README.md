@@ -22,6 +22,32 @@ Here is our plan:
 
 The `caregiver/` directory contains an agent that acts as a caregiver. This agent is responsible for logging information about the patient, such as activities, meals, and medications.
 
+![Banner](caregiver/pics/1.png)
+
+Greets the caregiver at the beginning of the shift. Pulls notes from parents and previous shift. Summarizes how was the last shift (slept well? got meds?). 
+Pulls data from garmin device monitoring sleep quality. 
+
+![Banner](caregiver/pics/2.png)
+
+Responds to questions about care instructions - grounded in the care instrucructions retrieved at runtime. 
+
+![Banner](caregiver/pics/3.png)
+
+Can symthesize information from care instructions, parent notes and other caregiver's observations. 
+
+![Banner](caregiver/pics/4.png)
+
+Is prohibited from guessing and responding to ambiguous questions. If the answer is not explict in the grounding data, it refuses to answer. 
+
+![Banner](caregiver/pics/5.png)
+
+Can capture notes - pertaining meals, meds, activities. 
+
+![Banner](caregiver/pics/5.png)
+
+Can answer questions syntesizing data from previous shift summary, parent notes etc. 
+
+
 ### 2. Parent Agent
 
 The `parent/` directory will contain an agent that acts as a parent. This agent will be able to query the system for information about the patient.
