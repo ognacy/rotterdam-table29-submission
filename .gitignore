@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.Python
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+*/venv/
+*/env/
+
+# IDE-specific files
+.vscode/        # VS Code
+.idea/          # IntelliJ IDEA / PyCharm
+*.iml           # IntelliJ IDEA module files
+.project        # Eclipse
+.pydevproject   # PyDev
+.settings/      # Eclipse
+
+# Environment variables
+.env
+.flaskenv
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Database files
+*.sqlite3
+*.db
+
+# Logs and other miscellaneous files
+*.log
+tmp/
+.DS_Store       # macOS specific

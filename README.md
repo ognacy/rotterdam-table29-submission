@@ -66,6 +66,8 @@ The `doctor/` directory will contain an agent that can be used by doctors and pa
 
 ### 4. Patient Logger Agent
 
+<video src="patient_logger_agent.mp4" controls="controls"></video>
+
 The `patient_logger_agent/` directory contains an agent that is responsible for logging patient information. The agent works by interviewing caregivers with a set of questions to create a daily, highly informative session log. This structured data capture ensures that all critical aspects of the patient's day are recorded.
 
 ![Caregiver Interview](caregiver_interview.png)
@@ -73,6 +75,8 @@ The `patient_logger_agent/` directory contains an agent that is responsible for 
 Practitioners, such as doctors or new caregivers, can then ask questions about the patient in natural language. The agent will analyze the logs and provide detailed answers, making it easy to access relevant information and understand the patient's history and progress.
 
 ![Practitioner Exploratory Information Discovery](practitioner_exploratory_information_discovery.png)
+
+
 
 ## Supporting Functions
 
