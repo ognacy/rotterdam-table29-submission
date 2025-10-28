@@ -27,9 +27,15 @@ The `caregiver/` directory contains an agent that acts as a caregiver. This agen
 Greets the caregiver at the beginning of the shift. Pulls notes from parents and previous shift. Summarizes how was the last shift (slept well? got meds?). 
 Pulls data from garmin device monitoring sleep quality. 
 
+The Garmin connection uses a MCP server. The secrets are managed via Google Secrets Manager. 
+
+Of course, this demonstration does not have the full login process implemented - a token is generated from one of our personal devices and will be disposed of after the hackaton. 
+
 ![Banner](caregiver/pics/2.png)
 
 Responds to questions about care instructions - grounded in the care instrucructions retrieved at runtime. 
+
+We created an eval to test the grounding. 
 
 ![Banner](caregiver/pics/3.png)
 
